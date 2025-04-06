@@ -26,10 +26,12 @@ Proiect din studiul Python, modul Git-GitHub,  pentru controlul versiunilor și 
 # Phase 3 - first commit of Phase2.
 
 # Phase 4:
- - Creați o ramură nouă add-product-removal, in care:
+ - Creați o ramură nouă add-product-removal(branch1), in care:
      - Adăugați metoda în ProductManager pentru a elimina produsele după nume.
      -Faceți commit cu un mesaj semnificativ.
 
+# Phase 5:
+ - merge main and branch1
 
 # Phase 6:
 - ramură nouă cu add-cart-functionality,  in care:
