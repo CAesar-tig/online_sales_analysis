@@ -1,2 +1,0 @@
-
-## Definirea clasei Product
