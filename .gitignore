@@ -1,0 +1,23 @@
+#Ignore folders:
+*__pycache__/*
+*__scrennshots__*
+
+# Ignoring log files
+*.log 
+
+#Ignore config files:
+*config.json*
+
+#Ignoring file pdf and png:
+*pdf*
+*png*
+
+# Ignore archives :
+*.zip
+*.rar
+
+# Ignoring draft files
+*draft*
+/*draft*/
+
+
