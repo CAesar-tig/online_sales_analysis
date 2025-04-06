@@ -47,3 +47,10 @@ Proiect din studiul Python, modul Git-GitHub,  pentru controlul versiunilor și 
      - Afișați valoarea totală de plată a conținutului coșului, precum și produsele care se află în acesta.
 
 - Faceți un commit cu un mesaj semnificativ.
+
+# Phase 7:
+ - modificari in main.py
+ - merge cu add-cart-functionality si rezolvare conflicte
+
+# Phase 8: .gitignore (incluzand config.json si screenshots)
+# Phase 9: update README si push
